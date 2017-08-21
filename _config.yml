@@ -74,6 +74,9 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: next-theme
 
+# Swiftype Search Key
+swiftype_key: oV9gLSMNxT2yP4isTJjX
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:

@@ -52,8 +52,9 @@ menu:
   archives: /archives/
   tags: /tags/
   sitemap: /sitemap.xml
-  commonweal: /404/
   demo: /demo/
+  commonweal: /404.html
+  
 
 # Enable/Disable menu icons.
 # Icon Mapping:
@@ -252,7 +253,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night
 
 
 # ---------------------------------------------------------------
@@ -319,7 +320,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 97c75a0e185c1ddcdadd271ab9ecca19
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -363,7 +364,7 @@ valine:
 # Available value:
 #    button | slide
 # Warning: Baidu Share does not support https.
-#baidushare:
+baidushare: true
 ##  type: button
 
 # Share
@@ -372,7 +373,7 @@ valine:
 # Warning: JiaThis does not support https.
 #jiathis:
   ##uid: Get this uid from http://www.jiathis.com/
-#add_this_id:
+add_this_id: ra-599b080d2d0ace89
 
 # Share
 #duoshuo_share: true
@@ -468,7 +469,7 @@ busuanzi_count:
 
 
 # Tencent analytics ID
-# tencent_analytics:
+# tencent_analytics: 63477795
 
 # Tencent MTA ID
 # tencent_mta:
@@ -582,7 +583,7 @@ pace: false
 pace_theme: pace-theme-minimal
 
 # Canvas-nest
-canvas_nest: false
+canvas_nest: true
 
 # three_waves
 three_waves: false
@@ -684,6 +685,9 @@ vendors:
 css: css
 js: js
 images: images
+
+#Site creation time
+since: 2017 - ❤️&nbsp;  
 
 # Theme version
 version: 5.1.2
