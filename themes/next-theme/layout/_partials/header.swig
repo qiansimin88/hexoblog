@@ -1,7 +1,4 @@
 <div class="site-brand-wrapper">
-  <audio loop="loop" autoplay="autoplay" style="display:none;">
-    <source src="{{ theme.backgroundMusic }}" type="audio/mpeg">
-  </audio>
   <div class="site-meta {% if theme.custom_logo.enabled %}custom-logo{% endif %}">
     {% if theme.custom_logo.image and theme.scheme === 'Muse' %}
       <div class="site-meta-headline">
