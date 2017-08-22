@@ -19,4 +19,10 @@
     NexT.{{ theme.scheme }}
   </a>
 </div>
+<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<div>
+  <span id="busuanzi_container_site_pv">
+      有<span id="busuanzi_value_site_pv"></span>人来过🙄
+  </span>
+</div>
 {% endif %}
