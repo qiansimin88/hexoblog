@@ -3,7 +3,7 @@
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `hexo-site/source/` directory.
-favicon: /favicon.ico
+favicon: images/favicon.ico
 
 # Set default keywords (Use a comma to separate)
 keywords: "Hexo, NexT"
@@ -691,3 +691,6 @@ since: 2017 - ❤️&nbsp;
 
 # Theme version
 version: 5.1.2
+
+#backgroundMusic
+backgroundMusic: /audio/1.mp3

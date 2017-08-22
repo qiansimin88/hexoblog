@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://qiansimin88.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -76,6 +76,12 @@ theme: next-theme
 
 # Swiftype Search Key
 swiftype_key: oV9gLSMNxT2yP4isTJjX
+
+# hexo sitemap网站地图
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
