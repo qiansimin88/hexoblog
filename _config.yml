@@ -78,10 +78,10 @@ theme: next-theme
 swiftype_key: oV9gLSMNxT2yP4isTJjX
 
 # hexo sitemap网站地图
-# sitemap:
-#   path: sitemap.xml
-# baidusitemap:
-#   path: baidusitemap.xml
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
