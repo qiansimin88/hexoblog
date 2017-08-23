@@ -8,7 +8,9 @@
         </a>
       </div>
     {% endif %}
-
+    <audio preload="preload" loop="loop" autoplay="autoplay">
+        <source src="http://ov4qsaus7.bkt.clouddn.com/mp31.mp3" type="audio/mp3">
+    </audio>
     <div class="custom-logo-site-title">
       <a href="{{ config.root }}"  class="brand" rel="start">
         <span class="logo-line-before"><i></i></span>
