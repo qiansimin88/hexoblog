@@ -327,7 +327,7 @@ baidu_analytics: 97c75a0e185c1ddcdadd271ab9ecca19
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: qiansimin88
   count: true
 
@@ -372,7 +372,7 @@ baidushare: true
 # And you can find the use guide at official webiste: http://www.jiathis.com/.
 # Warning: JiaThis does not support https.
 #jiathis:
-jiathis: true
+jiathis: false
   ##uid: Get this uid from http://www.jiathis.com/
 add_this_id: ra-599b080d2d0ace89
 
