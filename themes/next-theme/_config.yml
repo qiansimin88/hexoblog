@@ -51,9 +51,9 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
-  sitemap: /sitemap.xml
+  # sitemap: /sitemap.xml
   demo: /demo/
-  commonweal: /404.html
+  # commonweal: /404.html
   
 
 # Enable/Disable menu icons.
